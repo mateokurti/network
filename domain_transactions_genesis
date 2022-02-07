@@ -1,8 +1,0 @@
-{"reqSignature":{},"txn":{"data":{"alias":"Mateo Kurti","dest":"VTVDwQ6wuusBiKddVmGeRG","role":"0","verkey":"~UFizkbWxWrtPsbUpmikHXv"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":1},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"alias":"Mateo Kurti","dest":"3ji1em8o1CffetsWNfieQv","role":"0","verkey":"~SrQoBk38HzPUF9NWaVCqJg"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":2},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"alias":"Mateo Kurti","dest":"YUZjEHsfQKg1HGPvme9wkp","role":"0","verkey":"~NRF9623U3zb2vo239z3kA3"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":3},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"alias":"Mateo Kurti","dest":"FT3N4RdQrkgCK3xVBLou4C","role":"0","verkey":"~QjNDKoHa3JXeqTFJLw2UAq"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":4},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"dest":"N4x7PFAXLmhLoAcjkKkNRS","role":"2","verkey":"~VmPzaQyARZXcxxEYHY4ymV"},"metadata":{"from":"FT3N4RdQrkgCK3xVBLou4C"},"type":"1"},"txnMetadata":{"seqNo":5},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"dest":"F52ZAXSJgyLsbZ72Tt83HT","role":"2","verkey":"~R4dEySR5QnKenkd1Q59Ajk"},"metadata":{"from":"FT3N4RdQrkgCK3xVBLou4C"},"type":"1"},"txnMetadata":{"seqNo":6},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"dest":"2mtEmfTKnVesbz6rnuWmBo","role":"2","verkey":"~B4AuzkrAs5HmkjUkxdBUeW"},"metadata":{"from":"FT3N4RdQrkgCK3xVBLou4C"},"type":"1"},"txnMetadata":{"seqNo":7},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"dest":"LqNTnHsrDofrfAK185YJfA","role":"2","verkey":"~MWS2aTSDXuftgFY2mi3hNL"},"metadata":{"from":"FT3N4RdQrkgCK3xVBLou4C"},"type":"1"},"txnMetadata":{"seqNo":8},"ver":"1"}
